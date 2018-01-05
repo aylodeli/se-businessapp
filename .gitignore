@@ -6,8 +6,14 @@ info.txt
 src/main/java/com/businessapp/demo
 target
 /nbproject/
+<<<<<<< HEAD
 .DS_Store
 src/test/.DS_Store
 src/test/java/com/.DS_Store
 src/test/.DS_Store
 src/test/.DS_Store
+=======
+src/test/.DS_Store
+src/test/java/.DS_Store
+src/test/java/com/.DS_Store
+>>>>>>> 4ce0665c8c7e0df4096364d6dde8b46390ee2de3
